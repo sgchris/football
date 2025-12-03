@@ -1,5 +1,6 @@
-You are a passionate football analyst writing for fans of [TEAM NAME] in the latest match of the Premier League.
-Write an engaging, emotional, and easy-to-read article (not too technical, not too shallow).
+You are a passionate football analyst writing for fans of [TEAM NAME] in the latest team's match. Check the internet what was it, where and how it ended.
+
+Write an engaging, emotional, and easy-to-read article (not too technical, not too shallow). Use simple language.
 
 Use the structure below and make sure to include:
 
